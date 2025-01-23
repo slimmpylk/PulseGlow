@@ -1,5 +1,7 @@
 # PulseLEDGlow: Heart Rate LED Controller
 
+Whole idea for this project was, how to be visible in the most coolest way possible when running, cycling or doing whatever in the dark roads. Now cars can see you like that guy is doing ZONE 2 training, woooahh!!!
+
 PulseLEDGlow is a project that integrates a Raspberry Pi, any heart rate monitor, and an SPI-controlled LED strip. The LEDs change colors dynamically based on heart rate zones, providing a visual representation of your heart rate intensity.
 
 ## Features
@@ -14,7 +16,13 @@ PulseLEDGlow is a project that integrates a Raspberry Pi, any heart rate monitor
 - Configurable heart rate zones via a mobile app.
 - Uses `bleak` for Bluetooth communication and `neopixel_spi` for LED control.
 
----
+## VIDEO
+
+
+
+https://github.com/user-attachments/assets/36b6672b-8649-46a1-9bc9-7a8719c039cf
+
+
 
 ## Project Components
 
